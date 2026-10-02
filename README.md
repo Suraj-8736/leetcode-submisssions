@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
