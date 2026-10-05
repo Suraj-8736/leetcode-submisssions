@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0032-longest-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
