@@ -14,6 +14,6 @@ public:
             x = x / 10;
         }
 
-        return (int)sum;
+        return sum;
     }
 };
