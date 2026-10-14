@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0050-powx-n) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
