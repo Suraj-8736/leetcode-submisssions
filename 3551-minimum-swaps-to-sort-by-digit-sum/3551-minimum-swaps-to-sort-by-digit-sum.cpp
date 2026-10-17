@@ -3,44 +3,46 @@ public:
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
 
-        vector<pair<int, int>> arr;
+        vector<int> arr = nums;
 
-        for (int x : nums) {
-            int sum = 0, temp = x;
-
-            while (temp > 0) {
-                sum += temp % 10;
-                temp /= 10;
+        auto digitSum = [](int num) {
+            int sum = 0;
+            while (num > 0) {
+                sum += num % 10;
+                num /= 10;
             }
+            return sum;
+        };
 
-            arr.push_back({sum, x});
-        }
+        sort(arr.begin(), arr.end(), [&](int a, int b) {
+            int s1 = digitSum(a);
+            int s2 = digitSum(b);
 
-        sort(arr.begin(), arr.end());
+            if (s1 == s2)
+                return a < b;
+
+            return s1 < s2;
+        });
 
         unordered_map<int, int> pos;
 
         for (int i = 0; i < n; i++) {
-            pos[arr[i].second] = i;
+            pos[nums[i]] = i;
         }
 
-        vector<bool> visited(n, false);
         int swaps = 0;
 
         for (int i = 0; i < n; i++) {
-            if (visited[i] || pos[nums[i]] == i)
-                continue;
+            if (nums[i] != arr[i]) {
+                swaps++;
 
-            int cycle = 0;
-            int j = i;
+                int j = pos[arr[i]];
 
-            while (!visited[j]) {
-                visited[j] = true;
-                j = pos[nums[j]];
-                cycle++;
+                pos[nums[i]] = j;
+                pos[arr[i]] = i;
+
+                swap(nums[i], nums[j]);
             }
-
-            swaps += cycle - 1;
         }
 
         return swaps;
