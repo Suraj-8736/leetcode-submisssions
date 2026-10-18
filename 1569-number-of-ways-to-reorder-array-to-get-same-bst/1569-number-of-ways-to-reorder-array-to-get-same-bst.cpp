@@ -27,8 +27,6 @@ public:
 
     int numOfWays(vector<int>& nums) {
         int n = nums.size();
-
-        // Precompute combinations using Pascal's Triangle
         for (int i = 0; i <= n; i++) {
             C[i][0] = C[i][i] = 1;
 
