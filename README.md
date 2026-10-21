@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0169-majority-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0856-score-of-parentheses) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
