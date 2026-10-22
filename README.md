@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0169-majority-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
 | ------- |
