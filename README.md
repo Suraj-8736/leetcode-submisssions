@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2409-count-days-spent-together](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0050-powx-n) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
