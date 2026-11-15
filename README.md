@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0169-majority-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0050-powx-n) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0027-remove-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
