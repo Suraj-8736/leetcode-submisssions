@@ -1,28 +1,22 @@
+#define ll long long
+const ll M = 1e9+7;
 class Solution {
 public:
-    int numOfSubarrays(vector<int>& arr) {
-
-        long long odd = 0;
-        long long even = 1;
-        long long sum = 0;
-        long long count = 0;
-
-        int mod = 1e9 + 7;
-
-        for(int i = 0; i < arr.size(); i++) {
-
-            sum += arr[i];
-
-            if(sum % 2 == 0) {
-                count = (count + odd) % mod;
-                even++;
+    int numOfSubarrays(vector<int>& a) {
+        int n = a.size(), sm = 0, os = 0, es = 0;
+        ll ans = 0;
+        for(int i = 0; i < n; i++){
+            sm += a[i];
+            if(sm%2){
+                ans += es+1;
+                os++;
             }
-            else {
-                count = (count + even) % mod;
-                odd++;
+            else{
+                ans += os;
+                es++;
             }
+            ans %= M;
         }
-
-        return count;
+        return ans;
     }
 };
