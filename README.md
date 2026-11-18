@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0169-majority-element) |
+| [0957-prison-cells-after-n-days](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0957-prison-cells-after-n-days) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0136-single-number) |
+| [0957-prison-cells-after-n-days](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0957-prison-cells-after-n-days) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0169-majority-element) |
+| [0957-prison-cells-after-n-days](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0957-prison-cells-after-n-days) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0050-powx-n) |
+| [0957-prison-cells-after-n-days](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0957-prison-cells-after-n-days) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/Suraj-8736/leetcode-submisssions/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
